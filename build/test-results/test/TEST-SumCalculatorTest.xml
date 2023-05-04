@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SumCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-04T20:58:07" hostname="DESKTOP-IQLL6II" time="0.024">
+  <properties/>
+  <testcase name="testWithZero()" classname="SumCalculatorTest" time="0.021"/>
+  <testcase name="testWithOne()" classname="SumCalculatorTest" time="0.001"/>
+  <testcase name="testWithThree()" classname="SumCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
